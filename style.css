@@ -1,0 +1,13 @@
+h1{
+    color:blue
+}
+p{
+    color:blue
+}
+button{
+    background-color: blue;
+    color:white
+}
+button:hover{
+    color:black
+}
